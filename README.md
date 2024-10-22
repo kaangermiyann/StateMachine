@@ -1,6 +1,5 @@
 # StateMachine
 
 This is the way to get the asked attribute with all values.. Then you can get asked value of asked attribute
-!!
-### response = next((attr for attr in context['attributes'] if attr['attribute']['attributeCode'] == 'TermType'),None)
-### response['values'][0]['value'] is the example
+
+![image](https://github.com/user-attachments/assets/f2edfe73-bda1-4df6-87d3-463dd89e8fa3)
