@@ -1,0 +1,579 @@
+{
+  "id": 21408,
+  "assetDefinitionCode": "LicensedProducerContract",
+  "assetName": null,
+  "authorityGroup": "string",
+  "assets": null,
+  "attributes": [
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ReactiveExemption"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13512,
+          "attribute": null,
+          "value": false,
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 16057,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractNumber"
+      },
+      "value": 10000446,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13071,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractCancellationRequestDate"
+      },
+      "value": 99991231235959,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13070,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "OldSystemContractBeginDate"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28295,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccrualBlockReason"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 11867,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ProducerAccountId"
+      },
+      "value": 21454,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "1000020601",
+      "values": null
+    },
+    {
+      "id": 24198,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetDefinitionId"
+      },
+      "value": "1013",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 11869,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "SsbDocumentId"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28294,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "OutageExceptionState"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "SubscriberGroup"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13621,
+          "attribute": null,
+          "value": "SA",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Sanayi",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractPower"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 3905,
+          "attribute": null,
+          "value": 60,
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 13072,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "CreateDate"
+      },
+      "value": 20241015122314,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "TermType"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13622,
+          "attribute": null,
+          "value": "TT",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Tek Terim",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 13073,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "UpdateDate"
+      },
+      "value": 20241021174359,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 11865,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ServicePointId"
+      },
+      "value": 21407,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "300000614",
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ReadingType"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 28291,
+          "attribute": null,
+          "value": "SingleTime",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Tek Zaman",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ProducerSubscriberGroup"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13623,
+          "attribute": null,
+          "value": "UR",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Lisanslı Üretici",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 13069,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractSignDate"
+      },
+      "value": 20241001000000,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13624,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ProducerContractClass"
+      },
+      "value": "LicencedGenerators",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Lisanslı Üretici",
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ProducerContractPower"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 3907,
+          "attribute": null,
+          "value": 60,
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24201,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetIdentifier"
+      },
+      "value": "10000446",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28292,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "LastSourceConsumerGroup"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13620,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractClass"
+      },
+      "value": "Producer",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Üretici",
+      "values": null
+    },
+    {
+      "id": 13513,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "IsDeleted"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 3906,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "SubstationShareRatio"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28296,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "InvoiceBlockReason"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 19457,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ReverseContractServicePointId"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 6005,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractCancellationDate"
+      },
+      "value": 99991231000000,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24197,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "CreateUser"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24195,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "PreviousContractNumber"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "UnipedeSectorCode"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 28293,
+          "attribute": null,
+          "value": "1000",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "1000",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24199,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccessLevel"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 11868,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "SupplierCodeId"
+      },
+      "value": 21454,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "1000020601",
+      "values": null
+    },
+    {
+      "id": 6004,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractBeginDate"
+      },
+      "value": 20241001000000,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28752,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractCancellationReason"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28290,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractBeginReason"
+      },
+      "value": "NewContract",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Yeni Sözleşme",
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ProducerTermType"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13625,
+          "attribute": null,
+          "value": "TT",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Tek Terim",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24200,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "UpdateUser"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24196,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetId"
+      },
+      "value": "21408",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 11866,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractAccountId"
+      },
+      "value": 21454,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "1000020601",
+      "values": null
+    }
+  ]
+}
