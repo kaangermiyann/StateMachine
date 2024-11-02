@@ -1,0 +1,31 @@
+{
+    "id": 21408,
+    "attributes": [
+        {
+            "attribute": {
+                "attributeCode": "ContractCancellationDate"
+            },
+            "value": "20241101000000"
+        },
+        {
+            "attribute": {
+                "attributeCode": "ContractCancellationRequestDate"
+            },
+            "value": "20241101000000"
+        },
+        {
+            "attribute": {
+                "attributeCode": "ContractCancellationReason"
+            },
+            "value": "SubscriberRequest"
+        },
+        {
+            "attribute": {
+                "attributeCode": "ContractNumber"
+            },
+            "value": 10000446
+        }
+    ],
+    "authorityGroup": "string",
+    "contractLockID": "string"
+}
